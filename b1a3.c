@@ -25,7 +25,7 @@ int main(){
 		count++;
 	} while (fabs(x_new - x_old) > epsilon && count < 100000);
 	
-	printf("%f\n blablabla", x_new);
+	printf("%f\n bla", x_new);
 	
 	return 0;
 }
